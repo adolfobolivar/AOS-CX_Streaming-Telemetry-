@@ -1,4 +1,4 @@
-#From ArubaOS-CX REST API Guide for 10.02, Page 61: Example: Python-based notification subscriber 
+#Code from ArubaOS-CX REST API Guide for 10.02, Page 61: Example: Python-based notification subscriber 
 #Link to the Guide: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00061987en_us&docLocale=en_US
 
 from requests import post
