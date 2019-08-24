@@ -1,5 +1,7 @@
 #Enter your account_sid and auth_token from Twilio
 #Enter your cellphone number
+#Code from https://www.youtube.com/watch?v=98OewpG8-yw "How to Send a WhatsApp Message with Python"
+
 
 from twilio.rest import Client
 import json
