@@ -1,5 +1,8 @@
 # AOS-CX_Streaming-Telemetry-
-Streaming Telemetry example using AOS-CX and secure websockets.
+Streaming Telemetry example using Aruba AOS-CX and secure websockets.
+
+Information:
+https://community.arubanetworks.com/t5/Developer-Community/Streaming-Telemetry-Real-time-notifications-to-Whatsapp-when-a/td-p/551384
 
 
 Python 3.6.4
